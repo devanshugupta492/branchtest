@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 In this we will learn how to create how to create the Branch from master & create two branch from master will add some text in code.
 <<<<<<< HEAD
 this is text added from africadev.
 =======
 1- Let me introduce to you.
 >>>>>>> origin/africagyan
+=======
+iIn this we will learn how to create how to create the Branch from master & create two branch from master will add some text in code.
+1- Let me introduce to you.
+2- Let me tell u.
+3-New feature
+>>>>>>> df8013002e8f8840e16db24d57a4b3b7ad9f1164

@@ -1,6 +1,4 @@
 Master
-<<<<<<< HEAD
 Africadev
-=======
 Africagyan
->>>>>>> 25252ade54ec044b85722e1929440c5b1ccccbbb
+New Line
